@@ -1,0 +1,3 @@
+Here we perform PCA using Wine quality dataset obtained from Kaggle.
+This notebook contains an indepth explaination of PCA and the steps performed to implement PCA on this dataset
+Link to the Dataset: https://www.kaggle.com/datasets/rajyellow46/wine-quality
